@@ -187,14 +187,6 @@ Google Sheets  →  (OpenAI / DEMO)  →  Google Drive (OAuth)  →  Slack/Email
 
 ---
 
-## 📥 Nộp bài (gợi ý)
-
-- 🔗 Link repo GitHub (repo này)
-- 🎥 Video demo (3–5 phút) quay flow end-to-end
-- 📸 Screenshots: Sheet sau khi chạy, Drive có file, báo cáo, thông báo Slack/Email
-
----
-
 ## 📜 License
 
 MIT
